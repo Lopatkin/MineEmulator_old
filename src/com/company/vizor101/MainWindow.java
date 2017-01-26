@@ -40,6 +40,8 @@ public class MainWindow extends JFrame{
 
             labelInfo.setText("Новый день настал!");
 
+            SimpleGUI app1 = new SimpleGUI();
+            app1.setVisible(true);
 
         }
     }
